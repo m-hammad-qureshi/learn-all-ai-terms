@@ -1,8 +1,8 @@
 # 🚀 Modern AI Roadmap
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/modern-ai-roadmap?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/modern-ai-roadmap?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/modern-ai-roadmap)
+![GitHub stars](https://img.shields.io/github/stars/m-hammad-qureshi/modern-ai-roadmap?style=social)
+![GitHub forks](https://img.shields.io/github/forks/m-hammad-qureshi/modern-ai-roadmap?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/m-hammad-qureshi/modern-ai-roadmap)
 
 A structured collection of study notes covering the core concepts of **Modern Artificial Intelligence**, **Large Language Models (LLMs)**, **AI Agents**, **Retrieval-Augmented Generation (RAG)**, **Vector Databases**, **Model Context Protocol (MCP)**, **Multi-Agent Systems (MAS)**, and modern AI engineering practices.
 
